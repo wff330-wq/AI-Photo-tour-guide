@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GeoNarrate: AI Photo Tour Guide",
+  "description": "Upload a photo of a landmark, and this app will use AI to identify it, fetch its history using Google Search, and generate a narrated audio clip, creating an AR-style tourism experience.",
+  "requestFramePermissions": []
+}
